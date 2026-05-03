@@ -1,0 +1,26 @@
+{
+  "exported_at": "2026-05-03T00:00:00.000Z",
+  "transactions": [
+    {"id": 1, "date": "2026-05-01", "desc": "Salary", "amount": 4200, "category": "Income", "type": "income"},
+    {"id": 2, "date": "2026-05-02", "desc": "Rent", "amount": 1200, "category": "Rent", "type": "expense"},
+    {"id": 3, "date": "2026-05-03", "desc": "Whole Foods", "amount": 87, "category": "Groceries", "type": "expense"},
+    {"id": 4, "date": "2026-05-05", "desc": "Netflix", "amount": 18, "category": "Entertainment", "type": "expense"},
+    {"id": 5, "date": "2026-05-06", "desc": "Gas", "amount": 52, "category": "Transport", "type": "expense"}
+  ],
+  "goals": [
+    {"id": 1, "name": "Emergency Fund", "target": 10000, "saved": 4200},
+    {"id": 2, "name": "Vacation", "target": 3000, "saved": 1850}
+  ],
+  "budgets": {
+    "Groceries": 300,
+    "Rent": 1200,
+    "Transport": 150,
+    "Utilities": 120,
+    "Dining": 200,
+    "Entertainment": 80,
+    "Health": 60,
+    "Clothing": 100,
+    "Savings": 500,
+    "Other": 100
+  }
+}
