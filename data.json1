@@ -1,0 +1,17 @@
+{
+  "exported_at": "",
+  "transactions": [],
+  "goals": [],
+  "budgets": {
+    "Groceries": 0,
+    "Rent": 0,
+    "Transport": 0,
+    "Utilities": 0,
+    "Dining": 0,
+    "Entertainment": 0,
+    "Health": 0,
+    "Clothing": 0,
+    "Savings": 0,
+    "Other": 0
+  }
+}
